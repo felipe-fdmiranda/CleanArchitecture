@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Curso DDD.iml" filepath="$PROJECT_DIR$/.idea/Curso DDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CleanArchitecture.iml" filepath="$PROJECT_DIR$/.idea/CleanArchitecture.iml" />
     </modules>
   </component>
 </project>
